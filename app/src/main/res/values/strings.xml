@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Coffee and Chill</string>
+    <string name="splash_title">Coffee and Chill</string>
+    <string name="splash_subtitle">Your daily break starts here</string>
+    <string name="btn_start_now">Start now</string>
+    <string name="signup_landing_title">Sign up</string>
+    <string name="signup_landing_desc">Ready to chill?! Join us to order your favorite coffee and treats in a snap</string>
+    <string name="btn_register">Sign up</string>
+    <string name="btn_login">Login</string>
+    <string name="login_user_title">Welcome back!</string>
+    <string name="login_subtitle">Lets get you back to your chill time.</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="register_title">Sign up</string>
+    <string name="register_subtitle">Create an account to start your chill time</string>
+    <string name="hint_nama_lengkap">Full Name</string>
+    <string name="greeting_format">Halo %s,</string>
+    <string name="greeting_sub">Ready for a coffee and snack break?</string>
+    <string name="btn_pesan">Pesan</string>
+    <string name="section_makanan">All Menu</string>
+    <string name="profile_title">Profile Saya</string>
+    <string name="profile_subtitle">Kelola informasi kamu disini</string>
+    <string name="hint_nama">nama</string>
+    <string name="btn_save">Save</string>
+    <string name="alamat_title">Alamat</string>
+    <string name="alamat_subtitle">Lengkapi alamat pengiriman pesananmu</string>
+    <string name="hint_alamat">Alamat</string>
+    <string name="hint_patokan">Patokan atau detail lengkap</string>
+    <string name="btn_order_kirim">Order</string>
+    <string name="order_placed_title">Order Placed!</string>
+    <string name="order_confirm_msg">Thanks for ordering! Sit back and chill, our courier is bringing your treats right away.</string>
+    <string name="btn_oke">Oke</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_riwayat">Riwayat</string>
+    <string name="nav_profile">Profile</string>
+</resources>

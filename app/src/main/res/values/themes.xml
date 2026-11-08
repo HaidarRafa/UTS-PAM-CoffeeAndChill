@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UTSkopiNyemilHaidarRafaRadinka" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Coffee Theme Colors for Material 3 -->
+        <item name="colorPrimary">#2D1E18</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondaryContainer">#E8D8C8</item>
+        <item name="colorOnSecondaryContainer">#2D1E18</item>
+        <item name="colorSurfaceContainer">#FAF5EF</item>
+    </style>
+
+    <!-- Custom Minimalist Centered Active Indicator -->
+    <style name="CustomActiveIndicatorStyle" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#E8D8C8</item>
+        <item name="android:width">44dp</item>
+        <item name="android:height">32dp</item>
+    </style>
+
+    <style name="Theme.UTSkopiNyemilHaidarRafaRadinka" parent="Base.Theme.UTSkopiNyemilHaidarRafaRadinka" />
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="4dp">
+
+    <TextView
+        android:id="@+id/tvRowItemName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/tvRowItemPrice"
+        android:text="Kopi Susu Gula Aren (1x)"
+        android:textColor="#2D1E18"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tvRowItemPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="12dp"
+        android:text="Rp 22.000"
+        android:textColor="#6E5A50"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

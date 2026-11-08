@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="180dp"
+    android:height="180dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Organic Smooth Coffee Bean Lobe Base -->
+    <path
+        android:fillColor="#1A5D3A24"
+        android:pathData="M 50,6
+            C 24,6 6,26 6,52
+            C 6,78 26,94 50,94
+            C 76,94 94,74 94,48
+            C 94,22 74,6 50,6 Z" />
+
+    <!-- Soft Organic S-Crease Line in Coffee Bean -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#26FFFDF9"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 52,14 C 34,36 66,64 48,86" />
+
+</vector>
